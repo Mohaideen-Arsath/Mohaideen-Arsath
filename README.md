@@ -3,7 +3,7 @@
 ![Morgan Maxwell (1)](https://github.com/Mohaideen-Arsath/Mohaideen-Arsath/assets/138758501/37356120-3b75-4d74-9c7b-e419f963443e)
 
 <h1 align="center">Hi 👋, I'm Mohaideen Arsath</h1>
-<h3 align="center">⚡Full Stack Developer & Mern stack⚡</h3>
+<h3 align="center">⚡Full Stack Developer & Mern Stack Developer⚡</h3>
 
 Hey there! I'm Mohaideen Arsath, a passionate and dedicated full stack developer with a keen interest in creating innovative and efficient solutions to real-world problems. I'm always eager to explore and learn new technologies.
 
