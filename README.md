@@ -9,7 +9,7 @@ Hey there! I'm Mohaideen Arsath, a passionate and dedicated full stack developer
 
 <h2> 👨🏻‍💻 About Me </h2>
 - 🎓 Pre Final year undergrad at Sri Eshwar College of Engineering<br>
-- 🎓&nbsp;Studying Computer Science and Engineering <br>
+- 🎓&nbsp;Studying Computer Science and Business Systems <br>
 - 🌱 Learning Never Stops.<br>
 - 🤔&nbsp;Exploring new technologies and developing software solutions.<br><br>
 
