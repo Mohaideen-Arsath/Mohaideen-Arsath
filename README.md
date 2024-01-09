@@ -1,6 +1,6 @@
 <h1>Welcome to My GitHub Profile!</h1>
 
-![Morgan Maxwell (1)]([https://github.com/Mohaideen-Arsath/Mohaideen-Arsath/assets/138758501/37356120-3b75-4d74-9c7b-e419f963443e](https://www.canva.com/design/DAFqFogQ1jE/o5lTlm54-ij5nXGSBzgo6Q/edit?utm_content=DAFqFogQ1jE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Morgan Maxwell (1)]([https://github.com/Mohaideen-Arsath/Mohaideen-Arsath/assets/138758501/37356120-3b75-4d74-9c7b-e419f963443e](https://www.canva.com/design/DAFqFogQ1jE/o5lTlm54-ij5nXGSBzgo6Q/edit?utm_content=DAFqFogQ1jE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Mohaideen Arsath</h1>
 <h3 align="center">⚡Machine Learning & Data Science & Data Analyts & Frontend Developer⚡</h3>
