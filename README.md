@@ -8,7 +8,7 @@
 Hey there! I'm Mohaideen Arsath, a passionate and dedicated Software Engineer with a keen interest in creating innovative and efficient solutions to real-world problems. I'm always eager to explore and learn new technologies.
 
 <h2> 👨🏻‍💻 About Me </h2>
-- 🎓 Pre Final year undergrad at Sri Eshwar College of Engineering<br>
+- 🎓 Final year undergrad at Sri Eshwar College of Engineering<br>
 - 🎓&nbsp;Studying Computer Science and Business Systems <br>
 - 🌱 Learning Never Stops.<br>
 - 🤔&nbsp;Exploring new technologies and developing software solutions.<br><br>
